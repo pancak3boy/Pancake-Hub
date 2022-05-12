@@ -1,2 +1,3 @@
 # Pancake-Hub
-A script hub B)
+A script hub 
+**games supported: prison life, murder mystery 2, Rebirth Champions X**
